@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Exemple1</string>
+    <string name="app_name">Exemple 1</string>
+    <string name="hello_message">Hello L3 MIAGE</string>
 </resources>
