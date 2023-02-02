@@ -1,10 +1,9 @@
-package fr.uca.ds4h.miage.donati.exemple1;
+package fr.uca.ds4h.miage.donati.exemple2;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
-import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.Toast;
 

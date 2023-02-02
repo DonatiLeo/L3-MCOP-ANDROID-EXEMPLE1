@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'fr.uca.ds4h.miage.donati.exemple1'
+    namespace 'fr.uca.ds4h.miage.donati.exemple2'
     compileSdk 33
 
     defaultConfig {
-        applicationId "fr.uca.ds4h.miage.donati.exemple1"
+        applicationId 'fr.uca.ds4h.miage.donati.exemple2'
         minSdk 27
         targetSdk 33
         versionCode 1
